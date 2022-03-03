@@ -1,10 +1,9 @@
-
-def hello(): # Basic funcation to test linter functionality
+def hello():
   print("hi")
 
 
 def bye():
-  print("bye") # corrected indentation
+  print("bye")
 
 
 print(hello())
