@@ -1,9 +1,7 @@
-# Basic funcation to test linter functionality
-
-  def hello():
+  def hello(): # Basic funcation to test linter functionality
     print("hi")
-    
-  def bye():
-    print("bye") # incorrect indentation at this line
+
+    def bye():
+    print("bye") # corrected indentation
 
 print(hello())
